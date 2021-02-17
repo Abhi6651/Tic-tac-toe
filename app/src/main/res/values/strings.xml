@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="single_player">Single Player</string>
+    <string name="online">Multi Player</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="back">Back</string>
+    <string name="about_note">
+        This Game Is Made By
+        \n "Abhishek Patel"
+        \n pabhishek7150@gmail.com
+
+    </string>
+</resources>
